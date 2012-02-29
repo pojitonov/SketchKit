@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<macromedia-extension
+	name="SketchKit"
+	version="0.1.0"
+	type="symbols"
+	locked="false"
+	pkgtype="mxp"
+	plugin-manager-type="all-users"
+	enabled-for-enabled-all="true">
+	<author name="Mikko Vartio, Timur Prokopiev"/>
+
+<products>
+<product name="Fireworks" version="10" primary="true" />
+</products>
+
+<description href="http://pojitonov.github.com/SketchKit">
+<![CDATA[SketchKit Wireframe Library for Fireworks.]]>
+</description>
+
+<update method="directlink" url="https://github.com/pojitonov/SketchKit/raw/master/updates/SketchKit.xml"/>
+
+<files>
+
+<file source="/Ratings.graphic.png" destination="$fireworks/Configuration/Common Library/SketchKit/Ratings.graphic.png"/>
+<file source="/Ratings.jsf" destination="$fireworks/Configuration/Common Library/SketchKit/Ratings.jsf"/>
+
+</files>
+
+</macromedia-extension>
